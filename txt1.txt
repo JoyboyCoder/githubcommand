@@ -1,2 +1,11 @@
-
-
+git pull
+git clone
+git commit -m "create a file in newbranch2"
+git add .
+git checkout newbranch2
+git branch -a
+git remote add origin https://github.com/JoyboyCoder/githubcommand1.git
+git branch
+git init
+git push origin main
+cd ..
