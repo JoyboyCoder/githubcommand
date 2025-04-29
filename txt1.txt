@@ -4,6 +4,7 @@ git commit -m "create a file in newbranch2"
 git add .
 git checkout
 git branch -a
+git branch -M main
 git remote add origin https://github.com/JoyboyCoder/githubcommand1.git
 git branch
 git init
